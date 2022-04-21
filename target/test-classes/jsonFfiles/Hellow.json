@@ -1,0 +1,23 @@
+{
+	"firstName": "siva",
+	"lastname": "kumar",
+	"emailID": "hgyudc@gmail.com",
+	"phoneNo": 8973110021,
+	"data": [
+		{
+			"name": "siva",
+			"email": "siva@gmail.com",
+			"course": "java"
+		},
+		{
+			"name": "siva",
+			"email": "siva@gmail.com",
+			"course": "java"
+		},
+		{
+			"name": "siva",
+			"email": "siva@gmail.com",
+			"course": "java"
+		}
+	]
+}
